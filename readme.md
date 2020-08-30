@@ -19,7 +19,7 @@
   * components
   * styles
   * screens
-  * app.js  
+  
 
 
 <br><br>
